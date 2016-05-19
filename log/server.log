@@ -1,0 +1,19 @@
+2016.05.08 at 07:17:41 PDT ERROR com.haknm.client.Client 47 <init> - socket establish failed!
+2016.05.08 at 07:17:41 PDT ERROR com.haknm.client.Client 73 request - request error
+2016.05.08 at 07:21:37 PDT ERROR com.haknm.client.Client 47 <init> - socket establish failed!
+2016.05.08 at 07:21:37 PDT ERROR com.haknm.client.Client 73 request - request error
+2016.05.08 at 07:24:06 PDT ERROR com.haknm.server.Server 92 main - server socket established error!
+2016.05.08 at 07:24:37 PDT ERROR com.haknm.server.Server 92 main - server socket established error!
+2016.05.08 at 07:24:42 PDT ERROR com.haknm.server.Server 92 main - server socket established error!
+2016.05.08 at 07:28:23 PDT ERROR com.haknm.client.Client 47 <init> - socket establish failed!
+2016.05.08 at 07:28:23 PDT ERROR com.haknm.client.Client 73 request - request error
+2016.05.08 at 07:32:08 PDT ERROR com.haknm.client.Client 47 <init> - socket establish failed!
+2016.05.08 at 07:32:08 PDT ERROR com.haknm.client.Client 73 request - request error
+2016.05.08 at 07:34:33 PDT ERROR com.haknm.client.Client 47 <init> - socket establish failed!
+2016.05.08 at 07:34:33 PDT ERROR com.haknm.client.Client 73 request - request error
+2016.05.08 at 07:36:44 PDT ERROR com.haknm.client.Client 47 <init> - socket establish failed!
+2016.05.08 at 07:36:44 PDT ERROR com.haknm.client.Client 73 request - request error
+2016.05.08 at 07:37:07 PDT ERROR com.haknm.client.Client 47 <init> - socket establish failed!
+2016.05.08 at 07:37:07 PDT ERROR com.haknm.client.Client 73 request - request error
+2016.05.08 at 07:38:26 PDT ERROR com.haknm.client.Client 47 <init> - socket establish failed!
+2016.05.08 at 07:38:26 PDT ERROR com.haknm.client.Client 73 request - request error
